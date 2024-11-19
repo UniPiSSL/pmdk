@@ -13,5 +13,5 @@ O [Πανελλήνιος Μαθητικός Διαγωνισμός Κυβερν
 |   # | Σχολικό Έτος | Σύνδεσμος Ιστοσελίδας | Σύνδεσμος Δοκιμασιών |
 | --: | ------------ | :-------------------- | :------------------- |
 | 1ος | 2022-2023    | [link](https://ecsc.gr/index.php/panellhnios-mathitikos-diagonismos-kybernoasfaleias-2023/) | [Δοκιμασίες](https://github.com/UniPiSSL/pmdk-2023)  |
-| 2ος | 2023-2024    | [link](https://ecsc.gr/index.php/panellhnios-mathitikos-diagonismos-kybernoasfaleias-2023/) | [Δοκιμασίες](https://github.com/UniPiSSL/pmdk-2023) |
+| 2ος | 2023-2024    | [link](https://ecsc.gr/index.php/panellhnios-mathitikos-diagonismos-kybernoasfaleias-2024/) | [Δοκιμασίες](https://github.com/UniPiSSL/pmdk-2024) |
 | 3ος | 2024-2025    | [link](https://ecsc.gr/index.php/panellhnios-mathitikos-diagonismos-kybernoasfaleias/)      | - |
